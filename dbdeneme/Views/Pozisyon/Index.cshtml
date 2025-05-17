@@ -1,0 +1,33 @@
+﻿@model IEnumerable<dbdeneme.Models.Pozisyon>
+
+@{
+    ViewData["Title"] = "Pozisyonlar";
+}
+
+<h1 class="text-center my-4">@ViewData["Title"]</h1>
+
+<div class="container">
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Pozisyon Adı</th>
+                <th>Açıklama</th>
+                <th>Personeller</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pozisyon in Model)
+            {
+                <tr>
+                    <td>@pozisyon.Ad</td>
+                    <td>@pozisyon.Aciklama</td>
+                    <td>
+                        <a href="@Url.Action("PozisyonaGore", "Personel", new { pozisyonId = pozisyon.Id })" class="btn btn-info">
+                            
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,49 @@
+﻿@model List<dbdeneme.Models.Personel>
+
+<h2>Personel Listesi</h2>
+
+<a href="@Url.Action("Create", "Personel")" class="btn btn-success mb-3">Yeni Ekle</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Departman</th>
+            <th>Pozisyon</th>
+            <th>Maaş</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Ad</td>
+                <td>@p.Soyad</td>
+                <td>@p.Departman?.Ad</td>
+                <td>@p.Pozisyon?.Ad</td>
+                <td>
+                    @{
+                        var sonMaas = p.Maaslar?.OrderByDescending(m => m.OdemeTarihi).FirstOrDefault();
+                    }
+                    @if (sonMaas != null)
+                    {
+                        @sonMaas.Tutar.ToString("C")
+                        <a href="@Url.Action("MaasEdit", "Personel", new { personelId = p.Id })"
+                           title="Maaşı Düzenle" class="ms-2" style="text-decoration:none; font-size:1.1rem;">
+                            ✏️
+                        </a>
+                    }
+                    else
+                    {
+                        <span>Yok</span>
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Delete", "Personel", new { id = p.Id })" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

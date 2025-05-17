@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\dbdeneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\pozisyon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\pozisyon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\personel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\personel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\personel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\personel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\personelegitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\personelegitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\personelegitimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\personelegitimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\egitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\egitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\personelegitim\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\personelegitim\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\personel\\maasedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\personel\\maasedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\egitim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\egitim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\egitim\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\egitim\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\views\\departman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\views\\departman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\pozisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\pozisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\maas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\maas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\models\\departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\models\\departman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\pozisyonconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\pozisyonconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\personelegitimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\personelegitimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\maascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\maascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\egitimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\egitimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\controllers\\departmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\controllers\\departmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\dbdeneme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\dbdeneme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|c:\\users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\migrations\\20250514202352_seedpozisyonverisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1F320B-1548-44F0-92EC-FE1F81A3590F}|dbdeneme\\dbdeneme.csproj|solutionrelative:dbdeneme\\migrations\\20250514202352_seedpozisyonverisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\appsettings.json",
+              "RelativeDocumentMoniker": "dbdeneme\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\appsettings.json",
+              "RelativeToolTip": "dbdeneme\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T18:07:05.081Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Personel.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\Personel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Personel.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\Personel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:56:29.737Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "dbdeneme\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:03:38.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Pozisyon\\Index.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Pozisyon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Pozisyon\\Index.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Pozisyon\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T21:43:49.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Egitim.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Egitim.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\Egitim.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Egitim.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\Egitim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:01:17.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\PersonelEgitim\\Create.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\PersonelEgitim\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\PersonelEgitim\\Create.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\PersonelEgitim\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T19:16:42.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaasEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\MaasEdit.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Personel\\MaasEdit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\MaasEdit.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Personel\\MaasEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T18:37:03.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "dbdeneme\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:04:05.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonelEgitim.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\PersonelEgitim.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\PersonelEgitim.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\PersonelEgitim.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\PersonelEgitim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:03:00.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonelEgitimViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PersonelEgitimViewModel.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\PersonelEgitimViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PersonelEgitimViewModel.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\PersonelEgitimViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:15:13.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Personel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\Delete.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Personel\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T17:29:13.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\Create.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Personel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\Create.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Personel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T18:14:28.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:04:38.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\PersonelController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:56:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Program.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Program.cs",
+              "RelativeToolTip": "dbdeneme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:02:25.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\Index.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Personel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Personel\\Index.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Personel\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T18:56:46.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T19:25:38.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Egitim\\Index.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Egitim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Egitim\\Index.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Egitim\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T19:10:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Egitim\\Detay.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Egitim\\Detay.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Egitim\\Detay.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Egitim\\Detay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T19:27:52.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Departman\\Index.cshtml",
+              "RelativeDocumentMoniker": "dbdeneme\\Views\\Departman\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Views\\Departman\\Index.cshtml",
+              "RelativeToolTip": "dbdeneme\\Views\\Departman\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T21:31:24.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Maas.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Maas.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\Maas.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Maas.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\Maas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:41:33.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:31:11.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Departman.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Departman.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\Departman.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Departman.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\Departman.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:36:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pozisyon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Pozisyon.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Models\\Pozisyon.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Models\\Pozisyon.cs",
+              "RelativeToolTip": "dbdeneme\\Models\\Pozisyon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:44:24.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PozisyonConroller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PozisyonConroller.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\PozisyonConroller.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PozisyonConroller.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\PozisyonConroller.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:36:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersonelEgitimController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PersonelEgitimController.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\PersonelEgitimController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\PersonelEgitimController.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\PersonelEgitimController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:08:35.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MaasController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\MaasController.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\MaasController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\MaasController.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\MaasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:42:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:29:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmanController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\DepartmanController.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\DepartmanController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\DepartmanController.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\DepartmanController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:07:49.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EgitimController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\EgitimController.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Controllers\\EgitimController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Controllers\\EgitimController.cs",
+              "RelativeToolTip": "dbdeneme\\Controllers\\EgitimController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:07:59.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250514202352_SeedPozisyonVerisi.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Migrations\\20250514202352_SeedPozisyonVerisi.cs",
+              "RelativeDocumentMoniker": "dbdeneme\\Migrations\\20250514202352_SeedPozisyonVerisi.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\Migrations\\20250514202352_SeedPozisyonVerisi.cs",
+              "RelativeToolTip": "dbdeneme\\Migrations\\20250514202352_SeedPozisyonVerisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:23:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbdeneme.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\dbdeneme.csproj",
+              "RelativeDocumentMoniker": "dbdeneme\\dbdeneme.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\dbdeneme\\dbdeneme\\dbdeneme.csproj",
+              "RelativeToolTip": "dbdeneme\\dbdeneme.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T17:57:40.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

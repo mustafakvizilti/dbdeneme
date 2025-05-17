@@ -1,0 +1,40 @@
+﻿@model dbdeneme.Models.Personel
+
+@{
+    ViewData["Title"] = "Personel Sil";
+}
+
+<h1 class="text-center text-danger my-4">@ViewData["Title"]</h1>
+
+<div class="container bg-light p-4 rounded shadow-sm">
+    <h4>Bu personeli silmek istediğinizden emin misiniz?</h4>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">Ad</dt>
+        <dd class="col-sm-9">@Model.Ad</dd>
+
+        <dt class="col-sm-3">Soyad</dt>
+        <dd class="col-sm-9">@Model.Soyad</dd>
+
+        <dt class="col-sm-3">Email</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">Telefon</dt>
+        <dd class="col-sm-9">@Model.Telefon</dd>
+
+        <dt class="col-sm-3">Departman ID</dt>
+        <dd class="col-sm-9">@Model.DepartmanId</dd>
+
+        <dt class="col-sm-3">Pozisyon ID</dt>
+        <dd class="col-sm-9">@Model.PozisyonId</dd>
+    </dl>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="d-flex justify-content-between mt-4">
+            <a asp-action="Index" class="btn btn-secondary btn-lg">İptal Et</a>
+            <button type="submit" class="btn btn-danger btn-lg">Evet, Sil</button>
+        </div>
+    </form>
+</div>

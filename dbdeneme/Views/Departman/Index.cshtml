@@ -1,0 +1,38 @@
+﻿@model IEnumerable<dbdeneme.Models.Departman>
+
+@{
+    ViewData["Title"] = "Departmanlar";
+}
+
+<h2 class="mb-4">Departmanlar</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Departman Adı</th>
+            <th>Açıklama</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            int sira = 1;
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@sira</td>
+                    <td>@item.Ad</td>
+                    <td>@item.Aciklama</td>
+                </tr>
+                sira++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3" class="text-center">Kayıtlı departman yok.</td>
+            </tr>
+        }
+    </tbody>
+</table>

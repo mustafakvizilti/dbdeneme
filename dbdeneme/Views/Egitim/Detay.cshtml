@@ -1,0 +1,56 @@
+﻿@model dbdeneme.Models.Egitim
+
+<h2>@Model.Ad Eğitimi Alan Personeller</h2>
+
+<form asp-action="PersonelEkle" method="post" class="mb-4">
+    <input type="hidden" name="egitimId" value="@Model.Id" />
+    <div class="row mb-2">
+        <div class="col-md-4">
+            <select name="personelId" class="form-select" required>
+                <option value="">Personel Seçin</option>
+                @foreach (var item in (SelectList)ViewBag.PersonelListesi)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-3">
+            <input type="date" name="baslangicTarihi" class="form-control" required />
+        </div>
+        <div class="col-md-3">
+            <input type="date" name="bitisTarihi" class="form-control" required />
+        </div>
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-success">Ekle</button>
+        </div>
+    </div>
+</form>
+
+@if (Model.PersonelEgitimler != null && Model.PersonelEgitimler.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>Başlangıç</th>
+                <th>Bitiş</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pe in Model.PersonelEgitimler)
+            {
+                <tr>
+                    <td>@pe.Personel?.Ad</td>
+                    <td>@pe.Personel?.Soyad</td>
+                    <td>@pe.BaslangicTarihi.ToShortDateString()</td>
+                    <td>@pe.BitisTarihi.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Bu eğitimi alan personel bulunmamaktadır.</p>
+}

@@ -1,0 +1,32 @@
+﻿@model dbdeneme.Models.PersonelEgitim
+
+@{
+    var egitimler = new List<(int Id, string Ad)>
+    {
+        (1, "Bilgisayar Programcılığı"),
+        (2, "İşletme Yönetimi"),
+        (3, "Pazarlama"),
+        (4, "Muhasebe"),
+        (5, "İnsan Kaynakları")
+    };
+}
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>Personel:</label>
+        <select asp-for="PersonelId" asp-items="@(new SelectList(ViewBag.Personeller, "Id", "Ad"))"></select>
+    </div>
+
+    <div>
+        <label>Eğitim:</label>
+        @foreach (var egitim in egitimler)
+        {
+            <div>
+                <input type="radio" asp-for="EgitimId" value="@egitim.Id" id="egitim_@egitim.Id" />
+                <label for="egitim_@egitim.Id">@egitim.Ad</label>
+            </div>
+        }
+    </div>
+
+    <button type="submit">Kaydet</button>
+</form>
